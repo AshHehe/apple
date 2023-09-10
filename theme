@@ -1,0 +1,59 @@
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+
+:root {
+  --app-bg: url('https://wallpaperaccess.com/full/6788153.jpg');
+  --app-blur: 1px;
+  --app-margin: 3px;
+  --app-radius: 5px;
+  --accent-hue: 248;
+  --accent-saturation: 45%;
+  --accent-lightness: 54%;
+  --accent-opacity: 0.95;
+  --sidebar-color: rgb(0,0,0,0.4);
+  --main-content-color: rgb(0,0,0,0.5);
+  --undefined: 0;
+  --interactive-normal: #BBBBBB;
+  --interactive-hover: #B7B7B7;
+  --interactive-active: #FFFFFF;
+  --interactive-muted: #000000;
+  --undefined: 0;
+  --background-modifier-hover: rgb(255,184,184,0.15);
+  --background-modifier-selected: rgb(255,184,184,0.5);
+  --message-color: rgba(0,0,0,0.4);
+  --message-radius: 8px;
+  --message-padding-top: 8px;
+  --message-padding-side: 8px;
+  --undefined: 0;
+  --reply-hue: 291;
+  --reply-saturation: 77%;
+  --reply-lightness: 61%;
+  --reply-opacity: 1;
+  --textarea-color: 255,255,255;
+  --textarea-alpha: 0.09;
+  --textarea-alpha-focus: 0.08;
+  --textarea-radius: 5px;
+  --card-color: rgb(0,0,0,0.32);
+  --card-color-hover: rgb(0,0,0,0.5);
+  --card-color-select: rgba(0,0,0,0.7);
+  --button-height: 32px;
+  --button-padding: 0 16px;
+  --button-radius: 16px;
+  --rs-small-spacing: 0px;
+  --rs-medium-spacing: 0px;
+  --rs-large-spacing: 0px;
+  --rs-small-width: 0px;
+  --rs-medium-width: 0px;
+  --rs-large-width: 0px;
+  --rs-avatar-shape: 19.5%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
